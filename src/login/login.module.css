@@ -1,0 +1,37 @@
+
+body{
+    background-color:#0B1A26!important;
+    height: 100vh;
+}
+.page{
+    background-color:#0B1A26;
+}
+.title{
+    box-shadow: 4px 4px 5px solid #000 4px 4px 5px solid #000 ;
+    color: #CEECF2 !important;
+    font-size: calc(1.8rem + 2vw);
+}
+.input{
+    color:#B0D1D9 !important;
+    font-size: 20px;
+}
+
+.namewidth{
+    width: 50%;
+    margin-right: 3px;
+    border-radius: 5%;
+}
+.brdbottom{
+    width: 75%;
+    height: 1px;
+    margin: 10px;
+    background-color: rgb(191, 192, 194);
+    
+}
+.inputtext{
+    color: #fff !important;
+}
+.p{
+    font-size: 14px;
+    color: rgb(46, 44, 44);
+}

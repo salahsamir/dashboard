@@ -1,0 +1,13 @@
+
+
+
+.profile{
+  color: #B0D1D9;
+  box-shadow: 5px 5px 5px solid #000 5px 5px 5px solid #000;
+}
+.add{
+  display: none;
+  top: 130px;
+  left: 30%;
+  transform: translate(-50% -50%);
+}
